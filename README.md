@@ -1,6 +1,7 @@
 # Classic Arcade Game Clone
 
 Third project from https://www.udacity.com Front-End Web Developer Nanodegree program.
+[PLAY](http://desinni.github.io/Classic-Arcade-Game-Clone/)
 
 ## Project 3:
 
@@ -11,9 +12,9 @@ You will be provided with visual assets and a game loop engine; using these tool
 * HTML5 Canvas
 
 ## Running the game
+You can view the site live [here](http://desinni.github.io/Classic-Arcade-Game-Clone/).
+Or
 1. Download the source code to your computer
 2. `cd` to the folder of the game
 3. Run command `python -m SimpleHTTPServer`
 4. Open localhost `http://0.0.0.0:8000/` on your browser
-
-Or you can view the site live [here](http://desinni.github.io/Classic-Arcade-Game-Clone/).
