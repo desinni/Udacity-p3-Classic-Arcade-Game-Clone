@@ -15,3 +15,5 @@ You will be provided with visual assets and a game loop engine; using these tool
 2. `cd` to the folder of the game
 3. Run command `python -m SimpleHTTPServer`
 4. Open localhost `http://0.0.0.0:8000/` on your browser
+
+Or you can view the site live [here](http://desinni.github.io/Classic-Arcade-Game-Clone/).
